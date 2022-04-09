@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: texhead
+# key: texhead
+# --
+#+title: Formulating the Model into a Regression Dynamic Linear Model
+#+author:
+
+#+latex_header: \usepackage[utf8]{inputenc}
+#+latex_header: \usepackage[english]{babel}
+#+latex_header: \usepackage{amssymb,amsmath,amsthm,amsfonts}
+#+latex_header: \newtheorem{theorem}{Theorem}
+#+latex_header: \newtheorem{lemma}{Lemma}
+#+latex_header: \newtheorem*{remark}{Remark}
+#+latex_header: \newtheorem{corollary}{Corollary}
+#+latex_header: \newtheorem{definition}{Definition}
+#+latex: \hypersetup{pdfborder = {0 0 0}}
+
+$0
